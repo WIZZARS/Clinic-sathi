@@ -115,7 +115,7 @@ npm run ios
 | ✅ Create Bill with Services | Done |
 | ✅ Mark Bill as Paid/Unpaid | Done |
 | ✅ English + Nepali toggle | Done |
-| 🔄 Receipt PDF generation | Phase 2 |
+| ✅ Receipt PDF generation | Done |
 | 🔄 SMS reminders | Phase 2 |
 | 🔄 Doctor notes | Phase 2 |
 
