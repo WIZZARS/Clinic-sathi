@@ -1,4 +1,4 @@
-9# 🏥 ClinicSathi — Nepal Clinic Management App
+# 🏥 ClinicSathi — Nepal Clinic Management App
 
 A mobile application for small private clinics in Nepal to manage patients, appointments, and billing — all in one place.
 
