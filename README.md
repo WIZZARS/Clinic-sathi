@@ -1,4 +1,4 @@
-# 🏥 ClinicSathi — Nepal Clinic Management App
+9# 🏥 ClinicSathi — Nepal Clinic Management App
 
 A mobile application for small private clinics in Nepal to manage patients, appointments, and billing — all in one place.
 
@@ -140,18 +140,3 @@ The app currently uses a placeholder `CLINIC_ID = 'demo-clinic-id'`. After imple
 
 ---
 
-## 📦 Deployment (Android APK)
-
-```bash
-# Install EAS CLI
-npm install -g eas-cli
-
-# Login to your Expo account
-eas login
-
-# Configure build
-eas build:configure
-
-# Build Android APK for testing
-eas build --platform android --profile preview
-```
