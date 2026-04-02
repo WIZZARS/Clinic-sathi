@@ -130,13 +130,3 @@ npm run ios
 
 ---
 
-## 🔐 Connecting Clinic ID
-
-The app currently uses a placeholder `CLINIC_ID = 'demo-clinic-id'`. After implementing full auth:
-
-1. When a user registers, create their clinic in the `clinics` table.
-2. Store the clinic ID with their session context.
-3. Replace `CLINIC_ID` with a `useAuth()` hook that returns the authenticated clinic ID.
-
----
-
